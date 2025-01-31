@@ -1,4 +1,5 @@
 /* Style.css */
+ <style>
 .text-center {
     text-align: center;
 }
@@ -71,3 +72,4 @@
     text-align: center;
     width: 90%;
 }
+ </style>
